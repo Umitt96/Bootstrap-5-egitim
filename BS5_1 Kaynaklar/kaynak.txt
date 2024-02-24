@@ -1,0 +1,6 @@
+BS 5 kendi sitesi;
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
+Eğitim setinin takip edeceği konular;
+https://www.w3schools.com/bootstrap5/
